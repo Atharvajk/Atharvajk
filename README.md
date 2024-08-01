@@ -1,25 +1,11 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-</div>  
-  
+### <div align="center">I'm Atharva, a final year Computer Engineering student at Pune Institute of Computer Technology (PICT) 👨‍💻🚀</div>
 
-### <div align="center">I'm Atharva, student at Pune Institute of Computer Technology PICT 👨‍💻 studing Computer Engineering 🚀</div>  
-  
+- 🔭 Currently working on SaaS solutions and AI-driven projects  
+- 🌱 Learning advanced backend technologies, cloud integrations and DSA.
+- 😎 Tech enthusiast with strong leadership skills and a knack for problem-solving  
+- 👨‍💻 Experienced in developing web and mobile applications
 
-- 🔭 I’m currently working on Data Structure Project  
-  
-
-- 🌱 I’m currently learning Data Structure, Advance Java and MERN stack.  
-  
-
-- 😎 Tech-Enthusiast, like being a Team Leader, good at sales and pitching.  
-  
-
-- 👨‍💻 Contributing and giving consultations to businesses regarding web designs and development.  
-  
-
-<br/>  
-
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
